@@ -22,7 +22,6 @@ This project aims to create an interactive solar system using p5.js for a school
 ## Usage
 * Upon launching the application, users will be presented with the solar system visualization.
 * They can use keyboard or mouse controls to navigate the free roam feature and explore the solar system.
-* Clicking on a planet or celestial body will display relevant information about it.
 * Users can experiment with different viewpoints, zoom levels, and interactions to fully experience the project.
 
 ## Credits
