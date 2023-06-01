@@ -1,5 +1,5 @@
 
-# Planet PLaybook
+# Planet Playbook
 
 This project aims to create an interactive solar system using p5.js for a school assignment. Our goal was to go beyond the traditional static representation and introduce an exciting free roam feature, allowing users to explore the solar system at their own pace.
 
