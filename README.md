@@ -3,7 +3,7 @@
 
 This project aims to create an interactive solar system using p5.js for a school assignment. Our goal was to go beyond the traditional static representation and introduce an exciting free roam feature, allowing users to explore the solar system at their own pace.
 
-![Solar System GIF](https://s12.gifyu.com/images/Su7aW.gif)
+![Solar System GIF]([https://s12.gifyu.com/images/Su7aW.gif](https://github.com/charminv/3DSolarSystem/blob/main/Solar%20System%20-%20Imgur.gif))
 
 ## Features
 
